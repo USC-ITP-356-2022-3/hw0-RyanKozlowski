@@ -1,39 +1,5 @@
-Ryan Kozlowski
+Ryan Kozlowski 
 5016576246
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # :wave: The Basics of GitHub 
 
